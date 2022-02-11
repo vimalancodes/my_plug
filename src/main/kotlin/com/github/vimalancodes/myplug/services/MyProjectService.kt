@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.vimalancodes.myplug.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vimalancodes.myplug.MyBundle
 
 class MyProjectService(project: Project) {
 

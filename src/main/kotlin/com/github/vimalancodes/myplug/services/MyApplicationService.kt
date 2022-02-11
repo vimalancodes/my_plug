@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vimalancodes.myplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vimalancodes.myplug.MyBundle
 
 class MyApplicationService {
 
